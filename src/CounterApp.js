@@ -15,7 +15,7 @@ const CounterApp = ({ value }) => {
         </>
     )
 }
-
+//Controlando el tipo de dato del props
 CounterApp.propTypes = {
     value: PropTypes.number
 }
